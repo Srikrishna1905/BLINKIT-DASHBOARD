@@ -2,7 +2,7 @@
 
 An interactive and visually engaging Power BI dashboard designed for **Blinkit – India’s Last Minute App**. This report provides deep insights into sales performance, customer engagement, item distribution, and outlet dynamics across multiple locations.
 
-![Blinkit Dashboard Preview](./BlinkitDashboard.png)
+![Blinkit Dashboard Preview](https://github.com/Srikrishna1905/BLINKIT-DASHBOARD/blob/main/BlinkitDashboard.png.png)
 
 ---
 
