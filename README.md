@@ -1,21 +1,24 @@
-# 🛒 Blinkit Sales Dashboard
+# 🛍️ Blinkit Sales Dashboard
 
-An interactive and data-driven Power BI dashboard created to visualize and analyze sales performance for **Blinkit – India's Last Minute App**. This project provides actionable insights into product categories, outlet types, customer ratings, and fat content-based sales across multiple locations.
+An interactive and visually engaging Power BI dashboard designed for **Blinkit – India’s Last Minute App**. This report provides deep insights into sales performance, customer engagement, item distribution, and outlet dynamics across multiple locations.
+
+![Blinkit Dashboard Preview](./BlinkitDashboard.png)
 
 ---
 
-## 📌 Features
+## 📊 Key Insights Provided
 
-- 💰 **Total Sales Overview** ($1.20M) with average sales and number of items.
-- 🛍️ **Item Type Sales Breakdown** (e.g., Fruits, Snacks, Household, Dairy).
-- 🏬 **Outlet Analysis** by:
-  - Tier (Tier 1, 2, 3)
-  - Size (Small, Medium, High)
-  - Type (Supermarket, Grocery Store)
-- ⭐ **Customer Ratings** average across outlets and items.
-- 🧈 **Fat Content Sales** (Low Fat vs Regular).
-- 📈 **Outlet Establishment Trend** (from 2010 to 2023).
-- 🧭 **Filters** to slice data by:
+- 💰 **Total Sales**: $1.20M across all outlets and item categories.
+- 📦 **Total Items Sold**: 8,519 items with an average sale value of $141.
+- ⭐ **Customer Rating**: 3.9 average rating across all items and outlet types.
+- 🧈 **Fat Content Sales**: Comparison of low-fat vs regular-fat items.
+- 🧾 **Top-Selling Item Categories**: Fruits, Snacks, Household, Frozen, etc.
+- 🏬 **Outlet Insights**:
+  - Location Tiers: Tier 1, Tier 2, Tier 3
+  - Outlet Types: Supermarkets (Type 1-3), Grocery Stores
+  - Outlet Size: Small, Medium, High
+- 📈 **Outlet Establishment Trends**: Sales performance over time (2010–2023).
+- 🎛️ **Dynamic Filters**:
   - Outlet Location
   - Outlet Size
   - Item Type
@@ -24,45 +27,46 @@ An interactive and data-driven Power BI dashboard created to visualize and analy
 
 ## 🛠️ Built With
 
-- **Power BI** – for data modeling, DAX measures, and rich visualizations
-- **DAX** – to calculate KPIs like total sales, item count, and average rating
-- **Excel/CSV** – as the base data source (can be updated)
+- **Power BI Desktop** – For building interactive dashboards
+- **DAX** – Custom measures and calculated columns
+- **Microsoft Excel/CSV** – Used as the base data source
 
 ---
 
-## 📷 Dashboard Preview
+## 📁 Folder Structure
 
-![Blinkit Dashboard](https://github.com/Srikrishna1905/BLINKIT-DASHBOARD/blob/main/BlinkitDashboard.png.png) <!-- Replace this with your actual image path if needed -->
+
+Blinkit-Dashboard/
+├── Blinkit_Dashboard.pbix             # Power BI dashboard file
+├── BlinkitDashboard.png               # Dashboard screenshot for README
+├── README.md                          # Project documentation
+└── data/
+    └── sales_data.csv                 # Raw dataset used for analysis
+---
+
+## 📈 Use Case
+
+This dashboard can be used by:
+- Business analysts for sales tracking and outlet performance
+- Marketing teams to understand product preferences
+- Management to identify high-performing outlet types and areas
 
 ---
 
 ## 🧑‍💻 Developed By
 
 **SRIKRISHNA**  
-Data Analyst & Dashboard Developer
+Passionate about data visualization and business intelligence.
 
 ---
 
-## ⭐ Show Your Support
+## 🌟 Show Some Love
 
-If you like this project, give it a ⭐ on GitHub to inspire more such work!
-
----
-
-## 📂 Folder Structure (Optional)
-Blinkit-Dashboard/
-├── 📊 Blinkit_Dashboard.pbix           # Power BI dashboard file
-├── 📁 data/
-│   └── sales_data.csv                  # Source dataset (CSV/Excel)
-├── 📷 dashboard-preview.png            # Screenshot of the dashboard
-├── 📄 README.md                        # Project documentation
-└── 📄 LICENSE                          # (Optional) License file
-
-
-> You can adjust the folder and file names as per your actual project setup.
+If you found this project helpful, feel free to ⭐ star the repository and share your feedback!
 
 ---
 
-## 📣 Contact
+## 📬 Contact
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/srikrina-paul/) or reach out for collaboration!
+[LinkedIn Profile](https://www.linkedin.com/in/srikrishna-paul/) 
+Email: srikrishnapaul95@gmail.com
